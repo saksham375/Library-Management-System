@@ -51,9 +51,3 @@ This system addresses these challenges by providing an automated solution that e
 - **Enhanced UI**: Improving the design using JavaFX.
 - **Reporting Module**: Generate reports on overdue books and usage statistics.
 - **Notifications**: Automatic email reminders for overdue books.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
