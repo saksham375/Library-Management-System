@@ -33,7 +33,7 @@ This system addresses these challenges by providing an automated solution that e
 
 - **Programming Language**: Java
 - **Database**: MySQL (or any relational database)
-- **Development Environment**: Eclipse or IntelliJ IDEA
+- **Development Environment**: IntelliJ IDEA
 - **Frameworks**: 
   - HTML/CSS 
   - JavaScript
