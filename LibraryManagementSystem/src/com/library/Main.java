@@ -19,7 +19,7 @@ public class Main {
                 // Test adding a book
                 BookDAO bookDAO = new BookDAO(); // Create an instance of BookDAO
                 // Create a new Book object with details
-                Book newBook = new Book("The  Gatsby", "F.  Fitzgerald", "9780743273123", 6);
+                Book newBook = new Book("The  Gatsby", "F.  maybe", "9780741113123", 6);
                 bookDAO.addBook(newBook); // Add the new book to the database
                 System.out.println("Added new book with ID: " + newBook.getBookId()); // Print the ID of the newly added book
 
