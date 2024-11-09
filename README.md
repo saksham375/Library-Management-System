@@ -33,21 +33,20 @@ This system addresses these challenges by providing an automated solution that e
 
 - **Programming Language**: Java
 - **Database**: MySQL (or any relational database)
-- **Development Environment**: Eclipse or IntelliJ IDEA
+- **Development Environment**: IntelliJ IDEA
 - **Frameworks**: 
-  - Java Swing (for GUI applications) 
-  - JavaFX (for modern UI)
+  - HTML/CSS 
+  - JavaScript
 - **Libraries**: JDBC (Java Database Connectivity) for interacting with the database
 
 ## Features (Current and Planned)
 
 ### Completed Features:
-- **Book Cataloging**: Add, update, and remove books.
-- **User Account Management**: Manage user profiles and borrowing history.
-- **Borrow/Return Functionality**: Track the status of borrowed books.
-- **Inventory Tracking**: View the real-time availability of books.
+- **Database Connection Management:** Establishes a connection to the MySQL database, and safely closes it after use.
+- **Adding a Book:** Allows for adding new books with details such as title, author, ISBN, quantity, and available quantity.
+- **Retrieving a Book by ID:** Retrieves book details using a unique book ID.
+- **Retrieving All Books:** Lists all books in the database, displaying details for each one.
+- **Member Representation:** Creates a model for library members with properties like name, email, membership date, and status.
 
 ### Upcoming Features:
-- **Enhanced UI**: Improving the design using JavaFX.
-- **Reporting Module**: Generate reports on overdue books and usage statistics.
-- **Notifications**: Automatic email reminders for overdue books.
+- **Enhanced UI**: Improving the design using HTML.
