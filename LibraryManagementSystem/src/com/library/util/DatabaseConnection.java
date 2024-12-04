@@ -1,3 +1,4 @@
+// DatabaseCollection.java
 package com.library.util; // Package declaration for utility classes in the library system
 
 import java.sql.Connection; // Importing the Connection interface for managing database connections
