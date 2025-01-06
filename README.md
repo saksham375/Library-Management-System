@@ -1,4 +1,4 @@
-# Library Management System (Work in Progress)
+# Library Management System
 
 ## Project Overview
 
