@@ -50,3 +50,18 @@ This system addresses these challenges by providing an automated solution that e
 
 ### Upcoming Features:
 - **Enhanced UI**: Improving the design using HTML.
+
+## Screenshots
+
+Here are some screenshots of the Library Management System:
+
+![Picture1](images/Picture1.png)
+![Picture10](images/Picture10.png)
+![Picture2](images/Picture2.png)
+![Picture3](images/Picture3.png)
+![Picture4](images/Picture4.png)
+![Picture5](images/Picture5.png)
+![Picture6](images/Picture6.png)
+![Picture7](images/Picture7.png)
+![Picture8](images/Picture8.png)
+![Logo](images/logo.png)
